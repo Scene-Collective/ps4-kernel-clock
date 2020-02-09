@@ -43,7 +43,7 @@
 #define K503_COPYOUT               0x001EA630
 #define K505_COPYOUT               0x001EA630
 
-#define K405_SET_TIME              0x00609790 // Needs Verified
+#define K405_SET_TIME              0x00609920 // Needs Verified
 #define K455_SET_TIME              0x00617570
 #define K474_SET_TIME              0x0061A960
 #define K501_SET_TIME              0x00633CB0
