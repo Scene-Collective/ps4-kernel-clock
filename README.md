@@ -1,6 +1,6 @@
 Kernel Clock
 ===
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b2e44d7d2987419987042e4649296907)](https://www.codacy.com/gh/Scene-Collective/ps4-kernel-clock/dashboard)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/)](https://www.codacy.com/gh/Scene-Collective/ps4-kernel-clock/dashboard)
 
 ## Synopsis
 Changes the internal clock of the PS4, can be used to reactive licenses/features.
