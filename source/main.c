@@ -2,6 +2,7 @@
 
 int _main(struct thread *td) {
   UNUSED(td);
+
   initKernel();
   initLibc();
 
