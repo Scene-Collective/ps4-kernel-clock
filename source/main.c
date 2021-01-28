@@ -23,7 +23,7 @@ int _main(struct thread *td) {
   printf_notification("Kernel time changed!");
 
 #ifdef DEBUG_SOCKET
-  printf_socket("\nClosing socket...\n\n");
+  printf_debug("Closing socket...\n");
   SckClose(DEBUG_SOCK);
 #endif
 
