@@ -11,7 +11,9 @@ For the payloads built with the most recent firmware supported visit [this repo]
 - Contribute translations for the decription in `meta.json`
 - Requires being built with the [Scene Collective Payload SDK]
 - Supports any firmware that the SDK supports
+- Originally created by [Zer0xFF]
 
 [//]: #
   [Scene Collective Payload SDK]: <https://github.com/Scene-Collective/ps4-payload-sdk>
   [this repo]: <https://github.com/Scene-Collective/ps4-payload-repo>
+  [Zer0xFF]: <https://github.com/Zer0xFF/reactPSPLUS>
