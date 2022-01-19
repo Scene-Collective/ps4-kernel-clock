@@ -12,6 +12,7 @@ For the payloads built with the most recent firmware supported visit [this repo]
 - Requires being built with the [Scene Collective Payload SDK]
 - Supports any firmware that the SDK supports
 - Originally created by [Zer0xFF]
+- **BEWARE:** Somewhere between 5.05 and 6.72 the function used changed, this payload will ONLY zero out the clock and will no reset it. This will cause the errors with trophy times, licenses etc. This would be as if you unplugged the CMOS battery.
 
 [//]: #
   [Scene Collective Payload SDK]: <https://github.com/Scene-Collective/ps4-payload-sdk>
